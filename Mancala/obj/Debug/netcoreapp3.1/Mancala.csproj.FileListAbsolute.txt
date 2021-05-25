@@ -1,0 +1,13 @@
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.exe
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.deps.json
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.runtimeconfig.json
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.runtimeconfig.dev.json
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.dll
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.pdb
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.csprojAssemblyReference.cache
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.AssemblyInfoInputs.cache
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.AssemblyInfo.cs
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.csproj.CoreCompileInputs.cache
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.dll
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.pdb
+C:\Users\lwolf\Documents\Touro\Spring 2021\OOP\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.genruntimeconfig.cache
